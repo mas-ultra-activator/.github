@@ -1,4 +1,4 @@
-# Mas Ultra Activator
+# Mas Activator
 Часто применяется для активации операционной системы Windows или пакета Microsoft Office.
 
 
